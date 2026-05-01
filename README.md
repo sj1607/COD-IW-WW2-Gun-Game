@@ -13,12 +13,7 @@ If you want to change the weapon cycle, simply modify the `level.classicMode` ar
 
 **InfinityLoader is required** to inject this code.
 
-### Option 1: Using the Library (Fastest)
-1. Go to [infinityloader.com](https://infinityloader.com) and create/log into your account.
-2. Go to the **Library** tab.
-3. Find **"Gun Game"** and click **Inject**.
-
-### Option 2: Manual Setup
+### Manual Setup
 1. Download **InfinityLoader** at [infinityloader.com](https://infinityloader.com).
 2. Create a new "Project Bundle".
 3. Copy and paste the code into your project.
